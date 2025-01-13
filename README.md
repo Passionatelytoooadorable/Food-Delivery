@@ -1,5 +1,5 @@
 # Pizza Fiesta Website
-This is a fullstack food ordering app built with Node.js 14.
+This is a fullstack food ordering app built with Node.js.
 <br>
 
 <p align="center">
